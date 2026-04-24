@@ -3,6 +3,7 @@ Selected Python, Jupyter Notebook, and design-related work samples
 This folder contains a few selected work samples from my PhD-related coding and analysis work.
 
 1. Python Measurement Script
+
 I included one example Jupyter Notebook that represents the type of working notebook I used during measurements.
 
 This kind of notebook was used for:
@@ -12,6 +13,7 @@ This kind of notebook was used for:
 - intermediate analysis
 
 2. Python Analysis Script
+
 I also included one Python script that I used for analysis and plotting.
 
 This type of script was used for:
