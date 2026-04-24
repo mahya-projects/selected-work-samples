@@ -35,9 +35,7 @@ This file represents one part of the parameterization work I did for a larger de
 
 The full project contained different parts, including multiple device and sample-mount-related components. As a team, we worked with the full project and combined the different parts to obtain the final design.
 
-One of the parts I worked on was a meander-shaped resonator structure(I have attached the SEM images of these structures to the email I sent you), which I parameterized myself.
+One of the parts I worked on was a meander-shaped resonator structure, which I parameterized.
 
 The included file is one example from that type of work.
 
-Note
-These files are shared only as selected work samples for review. They are not intended to represent a full repository or the complete internal project structure.
