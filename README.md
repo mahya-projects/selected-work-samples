@@ -24,6 +24,7 @@ This type of script was used for:
 I wrote these files myself, based on examples and existing workflows that I adapted and extended for my own work.
 
 3. Design / Layout-Related Work
+   
 Another part of my PhD work involved design-related tasks for superconducting device structures.
 
 In this workflow, device geometries were defined in a parameterized way and then prepared for layout generation and further work with GDS-based design files and layout tools.
